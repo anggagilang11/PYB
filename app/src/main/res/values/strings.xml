@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PYBLearn</string>
+    <string name="title_home">Home</string>
+    <string name="text_login_page">Learning Management \n System</string>
+    <string name="button_login">LOG IN</string>
+    <string name="button_register">REGISTER</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="npm">NPM</string>
+    <string name="student_mail">Student Mail</string>
+    <string name="cancel">CANCEL</string>
+    <string name="log_out">Log Out</string>
+    <string name="save">Save</string>
+    <string name="setting1">Setting</string>
+</resources>
